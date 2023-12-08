@@ -1,7 +1,12 @@
-h3{
-    font-size: 4rem;
-    color: #28C76F;
+p{
+    font-size: 2rem;
+    color: white;
     text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10%;
+    border: 3px solid #0396FF;
+   
 }
 
 
@@ -38,12 +43,12 @@ h3{
 
 .card-content {
     padding: 2px 16px;
-    background-color: rgb(238, 183, 117);
+    background-color: #0396FF;
     text-align: center;
 }
 
 body {
-    background-color: black;
+    background-color:#28C76F;
 }
 
 
@@ -64,7 +69,7 @@ body {
 }
 
 
-@media screen and (min-width: 600px) and (max-width: 1200px) {
+@media screen and (min-width: 800px) and (max-width: 1800px) {
     .col-md-1 {width: 8.33%;}
     .col-md-2 {width: 16.66%;}
     .col-md-3 {width: 25%;}
