@@ -1,0 +1,30 @@
+#centralizar{
+    width: 80%;
+    margin-left: 10%;
+}
+
+.espaco-superior{
+    margin-top: 2vw;
+}
+#img1{
+    width: 100%;
+}
+
+
+fieldset{
+    padding: 20px;
+    background-color: #0396FF;
+    color: white;
+    border: 1px solid #000000;
+    border-radius: 10px;
+}
+
+body{
+  background-color: #28C76F;
+}
+
+.card{
+  background-color: #0396FF;
+  border: 1px solid #000000;
+  color: white;
+}

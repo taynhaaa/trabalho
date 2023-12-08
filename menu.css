@@ -1,5 +1,5 @@
 body {
-    color: white; 
+    color: black; 
     font-size: 48px; 
     margin-top: 5rem;
     background-color: #28C76F;
@@ -7,10 +7,19 @@ body {
 
 h2{
     font-size: 4rem;
-    color: white;
+    color: black;
     text-align: center;
    
 
+}
+.card{
+    background-color: #0396FF;
+    border: 1px solid #000000;
+    color: white;
+  }
+
+td{
+    margin-left: 10vw;
 }
 
 h4{
@@ -32,7 +41,7 @@ h3 {
 }
 
 .especial {
-    color: white;
+    color: black;
 }
 
 #div1 {
@@ -47,7 +56,7 @@ h3 {
 
 #div1 a{
     font-size: 2rem;
-    color: white;
+    color: black;
     text-decoration: none;
 }
 
@@ -80,7 +89,7 @@ h3 {
 
 #div3 a{
     font-size: 4rem;
-    color: white;
+    color: black;
     text-decoration: none;
 }
 
@@ -92,18 +101,13 @@ p{
 p{
     font-size: 1.5rem;
     text-align: justify;
-    color: white;
+    color: black;
 }
 
 #mapa{
     float: right;
 }
- #div4 h1{
-    font-size: 3rem;
-    background-color:  #0396FF;
-    text-align: center;
-    margin-left: 8%;
-    margin-right: 8%;
- }
 
-
+h1,h2,h3,h4,p{
+    color: white;
+}
